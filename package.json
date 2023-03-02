@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hugh-s-Dev-Studio/Notes_App/issues"
   },
-  "homepage": "https://github.com/Hugh-s-Dev-Studio/Notes_App#readme"
+  "homepage": "https://github.com/Hugh-s-Dev-Studio/Notes_App#readme",
+  "dependencies": {
+    "yargs": "^17.7.0"
+  }
 }
