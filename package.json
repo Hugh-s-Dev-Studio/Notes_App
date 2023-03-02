@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Hugh-s-Dev-Studio/Notes_App#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "yargs": "^17.7.0"
   }
 }
