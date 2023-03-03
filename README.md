@@ -7,14 +7,14 @@ A notes app built by Node.js.
     
 add
 
-  --title    Note title                                      [string] [required]
+>  --title    Note title                                      [string] [required]
   
-  --body     Note body                                       [string] [required]
+>  --body     Note body                                       [string] [required]
     
     
 remove
 
-  --title    Note title                                      [string] [required]
+>  --title    Note title                                      [string] [required]
     
     
 list
@@ -22,4 +22,4 @@ list
     
 read
 
-  --title    Note title                                      [string] [required]
+>  --title    Note title                                      [string] [required]
